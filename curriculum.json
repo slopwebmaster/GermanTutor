@@ -1,0 +1,50 @@
+{
+  "der-row": {
+    "title": "Nominative Masculine (The 'Der' Row)",
+    "rule": "Welcome to the Nominative case! This is the default dictionary form of a word. We use **der** when a masculine noun is the **Subject** of the sentence (the person or thing doing the action).\n\nThink of it as the 'Who?' or 'What?' is doing the verb.",
+    "examples": [
+      "**Der** Mann liest. (The man reads. -> The man is doing the reading.)",
+      "**Der** Hund bellt. (The dog barks. -> The dog is doing the barking.)"
+    ]
+  },
+  "die-row": {
+    "title": "Nominative Feminine (The 'Die' Row)",
+    "rule": "We use **die** when a feminine noun is the **Subject** of the sentence (doing the action).\n\nRemember, German has 3 genders. Don't let the word 'feminine' confuse you—it doesn't always mean a female person. For example, 'die Tür' (the door) is feminine!",
+    "examples": [
+      "**Die** Frau liest. (The woman reads.)",
+      "**Die** Katze schläft. (The cat sleeps.)"
+    ]
+  },
+  "das-row": {
+    "title": "Nominative Neuter (The 'Das' Row)",
+    "rule": "We use **das** when a neuter noun is the **Subject** of the sentence (doing the action).\n\nNeuter nouns are very common in German. Words like 'das Buch' (book), 'das Haus' (house), and 'das Kind' (child) all use 'das'.",
+    "examples": [
+      "**Das** Kind spielt. (The child plays.)",
+      "**Das** Buch ist gut. (The book is good.)"
+    ]
+  },
+  "den-row": {
+    "title": "Accusative Masculine (The 'Den' Row)",
+    "rule": "Here is the first big change! The Accusative case is used for the **Direct Object** (the thing receiving the action).\n\nIn English, we say 'I see *he*' vs 'I see *him*'. German does this too. When a masculine noun receives the action, **der** changes to **den**.\n\n**Crucial Rule:** ONLY masculine nouns change to 'den'. Feminine (die), neuter (das), and plural (die) do NOT change in the Accusative!",
+    "examples": [
+      "Nominative: **Der** Hund bellt. (The dog barks.)",
+      "Accusative: Ich sehe **den** Hund. (I see the dog. -> The dog is receiving the action.)"
+    ]
+  },
+  "dem-row": {
+    "title": "Dative Masculine (The 'Dem' Row)",
+    "rule": "The Dative case is used for the **Indirect Object** (the person who receives the direct object, or the person you do something *for* or *to*).\n\nWhen a masculine noun is the indirect object, **der** changes to **dem**.\n\n**Teacher's Trick:** Think **'M is for Dative'**. The Dative articles for masculine and neuter always end in **-m** (de**m**, eine**m**). You can also remember the Dative row is **MRMN** (de**m**, de**r**, de**m**, de**n**) — like the 'Mr. Men' books!",
+    "examples": [
+      "Ich gebe **dem** Mann den Ball. (I give the ball to the man.)",
+      "Ich helfe **dem** Hund. (I help the dog.)"
+    ]
+  },
+  "des-row": {
+    "title": "Genitive Masculine (The 'Des' Row)",
+    "rule": "The Genitive case shows **Possession** (whose is it?). \n\nWhen a masculine noun shows possession, **der** changes to **des**.\n\n**Teacher's Trick:** Think **'S is for Genitive'** (the 's-case'). The masculine and neuter articles end in **-s** (de**s**, eine**s**). The Genitive row is **SRSR** (de**s**, de**r**, de**s**, de**r**).\n\n**Crucial Rule:** Because it is the 's-case', you must also add an **-s** or **-es** to the end of the masculine noun (Mann -> Mann**es**).",
+    "examples": [
+      "Das Auto **des** Mannes. (The man's car.)",
+      "Die Farbe **des** Hauses. (The color of the house.)"
+    ]
+  }
+}

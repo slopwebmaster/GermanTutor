@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+state.json
+backups/
+sessions/
+evaluations/
+*.epub
+.DS_Store
